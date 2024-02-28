@@ -1,1 +1,3 @@
-print("Random stuff that will turn into user input")
+user_input = input("Type in whatever you would like to see printed.")
+
+print(user_input)
